@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Android App</string>
+    <string name="message">Welcome to android!</string>
+    <string name="b1">BUTTON 1</string>
+    <string name="lt">Large Text</string>
+    <string name="b2">BUTTON 2</string>
+    <string name="name">Name:</string>
+    <string name="pw">Password:</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
